@@ -1,0 +1,39 @@
+.hh{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.float-container {
+    border:  3px solid mistyrose;
+    padding: 20px;
+    display: flex;
+}
+
+.float-child {
+    width: 40%;
+    height: 200px;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    background-color: rgb(171, 164, 164);
+    margin-right: 20px;
+}  
+.sub1{
+    float: right;
+    font-size: 20px;
+    background-color: white;
+    border: 3px solid red;
+    font-family: cursive;
+    padding: 10px ;
+    text-align: center;
+    margin: -22px -22px 0px ;
+    width:80px
+
+    
+}
+.green{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
